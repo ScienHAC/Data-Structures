@@ -5,3 +5,6 @@ array operation
 -what is sparse matrix 
 -2d array and 3d array where use
 -application of sparse matrix
+
+
+where is double linked list and  single linked list used
